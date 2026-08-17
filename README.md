@@ -46,12 +46,12 @@
 ### 📈 Estatísticas do GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreluiz-systems&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-nine-rho.vercel.app/api?username=andreluiz-systems&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=andreluiz-systems&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreluiz-systems&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=andreluiz-systems&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
