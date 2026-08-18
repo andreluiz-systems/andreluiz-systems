@@ -50,24 +50,12 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=andreluiz-systems&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-two-lyart.vercel.app/api/top-langs/?username=andreluiz-systems&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 <br>
 
 ### 🐍 Contribuições ao longo do ano
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreluiz-systems/andreluiz-systems/output/github-contribution-grid-snake.svg" />
-</p>
-
-<br>
-
-### 🏆 Troféus
-
-<p align="center">
-  <img src="https://github-profile-trophy.herokuapp.com/?username=andreluiz-systems&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 <br>
