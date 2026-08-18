@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-nine-rho.vercel.app/api/top-langs/?username=andreluiz-systems&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.aritro.tech/api/top-langs/?username=andreluiz-systems&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
